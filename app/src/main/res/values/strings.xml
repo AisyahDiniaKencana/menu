@@ -5,4 +5,18 @@
     <string name="ms">Masukan Username</string>
     <string name="ps">Password</string>
     <string name="mp">Masukan Password</string>
+    <string name="btn">Sign-In</string>
+    <string name="th">Tampilan hasil menu 2</string>
+    <string name="tm">Tampilan hasil menu 3</string>
+    <string name="m1">Menu 1</string>
+    <string name="m2">Menu 2</string>
+    <string name="m3">Menu 3</string>
+    <string name="nm">Nama</string>
+    <string name="al">Alamat</string>
+    <string name="tl">No Telpon</string>
+    <string name="btn2">Daftar</string>
+    <string name="mn">Masukkan Nama</string>
+    <string name="ma">Masukkan Alamat</string>
+    <string name="mt">Masukkan No Telpon</string>
+    <string name="fp">Form Pendaftaran</string>
 </resources>

@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimary">#9D8DE8</color>
     <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorAccent">#D81B60</color>
     <color name="judul">#2F4F4F</color>
-    <color name="txt">#373A3C</color>
+    <color name="txt">#CCC6C6</color>
+    <color name="label">#000000</color>
+    <color name="latar">#ffe4b5</color>
+    <color name="latar1">#FF9D8DE8</color>
+    <color name="btn">#FFA500</color>
+    <color name="km">#FFCCC6C6</color>
 </resources>

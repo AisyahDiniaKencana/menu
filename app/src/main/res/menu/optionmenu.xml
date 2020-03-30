@@ -3,12 +3,16 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:id="@+id/about"
-        android:title="Edit"
+        android:id="@+id/menu1"
+        android:title="Menu 1"
         app:showAsAction="never"/>
     <item
-        android:id="@+id/setting"
-        android:title="Hapus"
+        android:id="@+id/menu2"
+        android:title="Menu 2"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu3"
+        android:title="Menu 3"
         app:showAsAction="never"/>
 
 </menu>
