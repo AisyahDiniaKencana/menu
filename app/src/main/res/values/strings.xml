@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">menu</string>
+    <string name="labelapp">LOGIN</string>
+    <string name="us">Username</string>
+    <string name="ms">Masukan Username</string>
+    <string name="ps">Password</string>
+    <string name="mp">Masukan Password</string>
+</resources>
